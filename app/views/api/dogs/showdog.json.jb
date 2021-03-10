@@ -1,0 +1,8 @@
+{
+
+id:  @dogs.id,
+name: @dogs.name,
+age:  @dogs.age,
+breed: @dogs.breed,
+
+}
